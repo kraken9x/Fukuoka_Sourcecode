@@ -1,0 +1,67 @@
+/* RESET CSS - Reset lại toàn bộ thuộc tính mặc định của các phần tử HTML */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Arial", "Geneva", monospace;
+}
+
+.box-model {
+  background-color: red;
+  color: white;
+  width: 200px;
+  height: 200px;
+  margin: 50px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  margin-left: 100px;
+  margin-right: 10px;
+  padding: 50px;
+  border: 10px solid black;
+  border-left: 50px dashed black;
+}
+
+.post-container {
+  width: 700px;
+  padding: 10px;
+}
+
+.post-container h3 {
+  color: rgb(49, 119, 168);
+  margin-bottom: 18px;
+  font-size: 22px;
+  font-weight: 900;
+  font-style: italic;
+  text-align: right;
+  text-decoration: overline wavy red 5px;
+  letter-spacing: 5px;
+}
+
+.post-container p {
+  margin-bottom: 14px;
+}
+
+.post-container .main-content {
+  padding-top: 16px;
+  padding-bottom: 16px;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: #fffaef;
+  border-left: 7px solid #dfcb4e;
+}
+
+.mgin-bottom {
+  margin-bottom: 14px;
+}
+
+.blog-container {
+  width: 460px;
+}
+
+.blog-container img {
+  width: 100%;
+}
+
+.mg-bt {
+  margin-bottom: 10px;
+}

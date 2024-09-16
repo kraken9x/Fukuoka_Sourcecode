@@ -1,0 +1,19 @@
+h2 {
+  background-color: yellow;
+}
+
+#first-h2 {
+  background-color: hotpink;
+}
+
+.first-h2 {
+  background-color: red;
+}
+
+.second-h2 {
+  background-color: lime;
+}
+
+#first-h1 {
+  background-color: blue;
+}
